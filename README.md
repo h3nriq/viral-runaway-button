@@ -1,1 +1,2 @@
-# viral-runaway-button
+# Botão fugitivo
+Vi um video no reels onde mandam um site que a opção "Não" fica fugindo quando tentam clicar nela, sendo a única opção o "Sim". Decidi criar a minha versão de forma bem simples, só para distração :)
